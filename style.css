@@ -12,9 +12,25 @@ body{
 	
 	);
 	margin: 0px auto;
+	color: white;
+	font-family: arial;
+	top: -20px;
 }	
 
-.name{
-	color:white;
+#construction{
+	margin: auto;
+	width: 300px;
+	height: 30px;
+	color: white;
+	background: red;
+	text-align: center;
 	font-family: arial;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px black
+}
+
+p{
+	position: relative;
+	top: 5px;
+	
 }
