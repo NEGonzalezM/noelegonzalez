@@ -1,20 +1,24 @@
-body{
-	background: #009999;
-}
-
 .container{
-	width: 100%;
-	height: 530px;	
+	
+	width: 1024px;
+	height: 600px;	
 	background: -webkit-linear-gradient(
 	top,
 		#006363, #009999
 	);
+	background: -moz-linear-gradient(
+	top,
+		#006363, #009999
+	);
+	margin:auto;
+	
+box-shadow: 3px 3px 5px gray;	
 }
 
 .question{
 	width: 275px;
 	height: 29px;
-	left: 82px;
+	left: 182px;
 	top: 59px;
 	color: white;
 	position: absolute;
@@ -23,7 +27,7 @@ body{
 .spanish{
 	width: 76px;
 	height: 29px;
-	left:  859px;
+	left:  1000px;
 	top: 49px;
 	text-align: center;
 	vertical-align: middle;
@@ -41,7 +45,7 @@ body{
 	width: 500px;
 	height: 270px;
 	top: 140px;
-	left: 270px;
+	left: 430px;
 }
 
 .skill_list{
@@ -71,7 +75,7 @@ body{
 	color:white;
 	position: absolute;
 	top: 480px;
-	left: 690px;
+	left: 90px;
 	
 }
 
@@ -82,7 +86,7 @@ body{
 	color:white;
 	position: absolute;
 	top: 480px;
-	left: 690px;
+	left: 800px;
 	}
 
 .copyright{
@@ -91,7 +95,7 @@ body{
 	opacity: 0.8;
 	position: absolute;
 	top: 480px;
-	left: 50px;
+	left: 200px;
 }
 
 
@@ -104,4 +108,3 @@ body{
 	color:white;
 	font-size: 56px;
 }
-
