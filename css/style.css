@@ -25,11 +25,12 @@ font-family: 'Cinzel', serif;
 	color: #FFF;
 	margin: 20px 0px 0px 20px;
 	float: left;
+	font-size: 30px
 	
 }
 
 .menu{
-	width: 550px;
+	width: 525px;
 	float: right;
 	margin-top: 30px;
 	
