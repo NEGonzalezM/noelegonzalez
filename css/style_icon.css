@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?4y1j9b');
+  src:  url('fonts/icomoon.eot?4y1j9b#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?4y1j9b') format('truetype'),
+    url('../fonts/icomoon.woff?4y1j9b') format('woff'),
+    url('../fonts/icomoon.svg?4y1j9b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e900";
+}
+.icon-file-text2:before {
+  content: "\e926";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-redo2:before {
+  content: "\e968";
+}
+.icon-forward:before {
+  content: "\e969";
+}
+.icon-reply:before {
+  content: "\e96a";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-previous2:before {
+  content: "\ea23";
+}
+.icon-next2:before {
+  content: "\ea24";
+}
+.icon-mail:before {
+  content: "\ea83";
+}
+.icon-mail2:before {
+  content: "\ea84";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-google-plus2:before {
+  content: "\ea8c";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-wordpress:before {
+  content: "\eab4";
+}
+.icon-tux:before {
+  content: "\eabd";
+}
+.icon-appleinc:before {
+  content: "\eabe";
+}
+.icon-finder:before {
+  content: "\eabf";
+}
+.icon-android:before {
+  content: "\eac0";
+}
+.icon-windows:before {
+  content: "\eac1";
+}
+.icon-windows8:before {
+  content: "\eac2";
+}
+.icon-chrome:before {
+  content: "\ead9";
+}
+.icon-firefox:before {
+  content: "\eada";
+}
+.icon-IE:before {
+  content: "\eadb";
+}
+.icon-file-pdf:before {
+  content: "\eadf";
+}
+
